@@ -1,0 +1,46 @@
+{
+  "name": "akupeduli/yii2-bracket-plus",
+  "description": "Yii2 Bracket Plus admin template integration",
+  "license": "MIT License",
+  "authors": [
+    {
+      "name": "Singo",
+      "email": "khoirul.anam@gmail.com",
+      "role": "Core Developer"
+    }
+  ],
+  "keywords": [
+    "yii2",
+    "template",
+    "template admin",
+    "bracket",
+    "bracket plus"
+  ],
+  "type": "yii2-extension",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=5.6.0",
+    "yiisoft/yii2": ">=2.0",
+    "mimicreative/yii2-datatables": "dev-metronic-support",
+    "yiisoft/yii2-bootstrap4": "~1.0.0",
+    "bower-asset/moment": "^2.22",
+    "bower-asset/jquery-ui": "^1.12",
+    "rmrevin/yii2-fontawesome": "^3.0",
+    "rmrevin/yii2-ionicon": "^1.2"
+  },
+  "extra": {
+    "bootstrap": "akupeduli\\bracket\\Bootstrap"
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "akupeduli\\bracket\\": "src/"
+    }
+  }
+}
