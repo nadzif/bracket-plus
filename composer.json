@@ -30,7 +30,7 @@
     "rmrevin/yii2-ionicon": "^1.2"
   },
   "extra": {
-    "bootstrap": "akupeduli\\bracket\\Bootstrap"
+    "bootstrap": "nadzif\\bracket\\Bootstrap"
   },
   "repositories": [
     {
@@ -40,7 +40,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "akupeduli\\bracket\\": "src/"
+      "nadzif\\bracket\\": "src/"
     }
   }
 }
