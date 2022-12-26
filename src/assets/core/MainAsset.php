@@ -1,12 +1,12 @@
 <?php
 
-namespace akupeduli\bracket\assets\core;
+namespace nadzif\bracket\assets\core;
 
-use akupeduli\bracket\assets\plugins\JqueryUIAsset;
+use nadzif\bracket\assets\plugins\JqueryUIAsset;
 use rmrevin\yii\fontawesome\AssetBundle as FABundle;
 use rmrevin\yii\ionicon\AssetBundle as IonBundle;
-use akupeduli\bracket\assets\plugins\PerfectScrollAsset;
-use akupeduli\bracket\Bracket;
+use nadzif\bracket\assets\plugins\PerfectScrollAsset;
+use nadzif\bracket\Bracket;
 use yii\bootstrap4\BootstrapPluginAsset;
 use yii\web\AssetBundle;
 use yii\web\YiiAsset;

@@ -1,8 +1,8 @@
 <?php
 
-namespace akupeduli\bracket\assets\core;
+namespace nadzif\bracket\assets\core;
 
-use akupeduli\bracket\Bracket;
+use nadzif\bracket\Bracket;
 use yii\base\InvalidConfigException;
 use yii\web\AssetBundle;
 

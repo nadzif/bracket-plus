@@ -1,5 +1,5 @@
 <?php
-namespace akupeduli\bracket\actions;
+namespace nadzif\bracket\actions;
 
 use Yii;
 use yii\base\Exception;
@@ -9,7 +9,7 @@ use yii\web\HttpException;
 
 class ErrorAction extends base
 {
-    public $view = "@akupeduli/bracket/views/error";
+    public $view = "@nadzif/bracket/views/error";
     public function run()
     {
         if (($exception = Yii::$app->getErrorHandler()->exception) === null) {
@@ -37,7 +37,7 @@ class ErrorAction extends base
         if (Yii::$app->getRequest()->getIsAjax()) {
             return "$name: $message";
         } else {
-            $this->controller->layout = "@akupeduli/bracket/views/layouts/base";
+            $this->controller->layout = "@nadzif/bracket/views/layouts/base";
             return $this->controller->render($this->view, [
                 'name'      => $name,
                 'message'   => $message,

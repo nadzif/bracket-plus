@@ -1,7 +1,7 @@
 <?php
 
-use akupeduli\bracket\Bracket;
-use akupeduli\bracket\widgets\SidebarMenu;
+use nadzif\bracket\Bracket;
+use nadzif\bracket\widgets\SidebarMenu;
 
 /** @var Bracket $bracket */
 $bracket = Bracket::getComponent();

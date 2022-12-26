@@ -1,7 +1,7 @@
 <?php
 
-use akupeduli\bracket\Bracket;
-use akupeduli\bracket\widgets\FlashAlert;
+use nadzif\bracket\Bracket;
+use nadzif\bracket\widgets\FlashAlert;
 use yii\helpers\Html;
 
 /** @var Bracket $bracket */

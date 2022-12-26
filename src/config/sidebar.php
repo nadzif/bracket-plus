@@ -1,6 +1,6 @@
 <?php
 
-use akupeduli\bracket\widgets\SidebarMenu;
+use nadzif\bracket\widgets\SidebarMenu;
 use rmrevin\yii\ionicon\Ion;
 
 return [

@@ -1,14 +1,14 @@
 <?php
 
-namespace akupeduli\bracket\assets\plugins;
+namespace nadzif\bracket\assets\plugins;
 
-use akupeduli\bracket\assets\core\PluginAsset;
+use nadzif\bracket\assets\core\PluginAsset;
 
 /**
  * Class SwitchButtonAsset
  *
  * @author  L Shaf <shafry2008@gmail.com>
- * @package akupeduli\bracket\assets\plugins
+ * @package nadzif\bracket\assets\plugins
  */
 class SwitchButtonAsset extends PluginAsset
 {

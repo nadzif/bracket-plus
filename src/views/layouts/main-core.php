@@ -1,7 +1,7 @@
 <?php
 
-use akupeduli\bracket\Bracket;
-use akupeduli\bracket\widgets\SidebarMenu;
+use nadzif\bracket\Bracket;
+use nadzif\bracket\widgets\SidebarMenu;
 use yii\helpers\Html;
 
 $this->beginContent(__DIR__.'/base.php');

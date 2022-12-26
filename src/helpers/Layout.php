@@ -1,8 +1,8 @@
 <?php
 
-namespace akupeduli\bracket\helpers;
+namespace nadzif\bracket\helpers;
 
-use akupeduli\bracket\Bracket;
+use nadzif\bracket\Bracket;
 use yii\helpers\Html;
 
 class Layout

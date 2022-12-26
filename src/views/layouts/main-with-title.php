@@ -1,8 +1,8 @@
 <?php
 
-use akupeduli\bracket\Bracket;
-use akupeduli\bracket\widgets\Breadcrumbs;
-use akupeduli\bracket\widgets\FlashAlert;
+use nadzif\bracket\Bracket;
+use nadzif\bracket\widgets\Breadcrumbs;
+use nadzif\bracket\widgets\FlashAlert;
 use rmrevin\yii\ionicon\Ion;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;

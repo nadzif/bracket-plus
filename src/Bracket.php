@@ -2,7 +2,7 @@
 
 namespace nadzif\bracket;
 
-use akupeduli\bracket\assets\BracketAsset;
+use nadzif\bracket\assets\BracketAsset;
 use yii\base\Component;
 use yii\base\InvalidConfigException;
 use yii\web\AssetBundle;
@@ -36,9 +36,9 @@ class Bracket extends Component
      * @var string|array $sidebarConfig
      * @note if $sidebarConfig is string, will be read as path and require it
      */
-    public $sidebarConfig = "@akupeduli/bracket/config/sidebar.php";
-    public $sidebarFile = "@akupeduli/bracket/views/samples/sidebar";
-    public $navbarFile = "@akupeduli/bracket/views/samples/navbar";
+    public $sidebarConfig = "@nadzif/bracket/config/sidebar.php";
+    public $sidebarFile = "@nadzif/bracket/views/samples/sidebar";
+    public $navbarFile = "@nadzif/bracket/views/samples/navbar";
 
     public function init()
     {

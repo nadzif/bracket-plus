@@ -1,6 +1,6 @@
 <?php
 
-namespace akupeduli\bracket\forms;
+namespace nadzif\bracket\forms;
 
 use yii\base\InvalidConfigException;
 use yii\base\Model;

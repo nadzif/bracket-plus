@@ -1,5 +1,5 @@
 <?php
-use akupeduli\bracket\assets\core\ImageAsset;
+use nadzif\bracket\assets\core\ImageAsset;
 use yii\helpers\Url;
 
 /** @var $this \yii\web\View */

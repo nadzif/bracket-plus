@@ -1,6 +1,6 @@
 <?php
 
-namespace akupeduli\bracket\widgets;
+namespace nadzif\bracket\widgets;
 
 use rmrevin\yii\ionicon\Ion;
 use yii\helpers\ArrayHelper;
@@ -12,7 +12,7 @@ use yii\widgets\Menu;
  * Class SidebarMenu
  *
  * @author  L Shaf <shafry2008@gmail.com>
- * @package akupeduli\bracket\widgets
+ * @package nadzif\bracket\widgets
  */
 class SidebarMenu extends Menu
 {

@@ -1,10 +1,10 @@
 <?php
 
-use akupeduli\bracket\forms\LoginForm;
+use nadzif\bracket\forms\LoginForm;
 use yii\base\InvalidConfigException;
 use yii\helpers\Url;
 use yii\widgets\ActiveForm;
-use akupeduli\bracket\Bracket;
+use nadzif\bracket\Bracket;
 
 $bracket = Bracket::getComponent();
 

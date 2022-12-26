@@ -1,6 +1,6 @@
 <?php
 
-namespace akupeduli\bracket\widgets;
+namespace nadzif\bracket\widgets;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;

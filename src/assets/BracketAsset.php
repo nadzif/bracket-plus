@@ -1,13 +1,13 @@
 <?php
 
-namespace akupeduli\bracket\assets;
+namespace nadzif\bracket\assets;
 
-use akupeduli\bracket\assets\core\MainAsset;
+use nadzif\bracket\assets\core\MainAsset;
 use yii\web\AssetBundle;
 
 class BracketAsset extends AssetBundle
 {
-    public $sourcePath = "@akupeduli/bracket/web";
+    public $sourcePath = "@nadzif/bracket/web";
     public $js = [
         "js/custom.js",
     ];

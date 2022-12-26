@@ -1,6 +1,6 @@
 <?php
-use akupeduli\bracket\assets\core\ImageAsset;
-use akupeduli\bracket\forms\LoginForm;
+use nadzif\bracket\assets\core\ImageAsset;
+use nadzif\bracket\forms\LoginForm;
 use yii\base\InvalidConfigException;
 use yii\widgets\ActiveForm;
 use yii\helpers\Url;

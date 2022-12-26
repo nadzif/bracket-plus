@@ -1,6 +1,6 @@
 <?php
 
-namespace akupeduli\bracket\assets\plugins;
+namespace nadzif\bracket\assets\plugins;
 
 use yii\web\AssetBundle;
 use yii\web\JqueryAsset;
@@ -9,7 +9,7 @@ use yii\web\JqueryAsset;
  * Class JqueryUIAsset
  *
  * @author  L Shaf <shafry2008@gmail.com>
- * @package akupeduli\bracket\assets\plugins
+ * @package nadzif\bracket\assets\plugins
  */
 class JqueryUIAsset extends AssetBundle
 {

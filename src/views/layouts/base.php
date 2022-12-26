@@ -3,8 +3,8 @@
 /** @var \yii\web\View $this */
 /** @var string $content */
 
-use akupeduli\bracket\Bracket;
-use akupeduli\bracket\helpers\Layout;
+use nadzif\bracket\Bracket;
+use nadzif\bracket\helpers\Layout;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 use yii\helpers\Url;

@@ -1,8 +1,8 @@
 <?php
 
-namespace akupeduli\bracket\assets\plugins;
+namespace nadzif\bracket\assets\plugins;
 
-use akupeduli\bracket\assets\core\PluginAsset;
+use nadzif\bracket\assets\core\PluginAsset;
 use yii\bootstrap4\BootstrapPluginAsset;
 use yii\web\JqueryAsset;
 
