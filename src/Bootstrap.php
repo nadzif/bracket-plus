@@ -1,6 +1,6 @@
 <?php
 
-namespace akupeduli\bracket;
+namespace nadzif\bracket;
 
 use yii\base\BootstrapInterface;
 use yii\helpers\ArrayHelper;
