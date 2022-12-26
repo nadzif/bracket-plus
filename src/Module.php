@@ -1,6 +1,6 @@
 <?php
 
-namespace akupeduli\bracket;
+namespace nadzif\bracket;
 
 class Module extends \yii\base\Module
 {
