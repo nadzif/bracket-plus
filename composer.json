@@ -23,7 +23,7 @@
     "php": ">=5.6.0",
     "yiisoft/yii2": ">=2.0",
     "mimicreative/yii2-datatables": "dev-metronic-support",
-    "yiisoft/yii2-bootstrap4": "~1.0.0",
+    "yiisoft/yii2-bootstrap4": "^2.0.4",
     "bower-asset/moment": "^2.22",
     "bower-asset/jquery-ui": "^1.12",
     "rmrevin/yii2-fontawesome": "^3.0",
